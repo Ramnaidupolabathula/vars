@@ -1,1 +1,1 @@
-# vars
+# jenkins-shared-library
